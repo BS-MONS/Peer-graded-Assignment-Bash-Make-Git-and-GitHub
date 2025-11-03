@@ -1,1 +1,3 @@
-# Peer-graded-Assignment-Bash-Make-Git-and-GitHub
+git init
+git add .
+git commit -m "Initial commit"
